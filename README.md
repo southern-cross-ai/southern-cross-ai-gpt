@@ -1,1 +1,1 @@
-# southern-cross-ai-minigpt
+# southern-cross-ai-gpt
